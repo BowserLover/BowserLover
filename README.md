@@ -1,4 +1,7 @@
-### Hi there 👋
+# BowserLover
+i make cool stuff i guess
+## projects
+audio projection bots (private so no invite link)
 
 <!--
 **BowserLover/BowserLover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
