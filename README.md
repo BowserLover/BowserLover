@@ -1,7 +1,4 @@
-# BowserLover
-i make cool stuff i guess
-## projects
-audio projection bots | [bash](https://github.com/BowserLover/bash)
+male poon fork deleted 10/27/21
 
 <!--
 **BowserLover/BowserLover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
